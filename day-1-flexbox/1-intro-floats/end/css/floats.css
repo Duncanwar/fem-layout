@@ -35,6 +35,7 @@ div img {
     content:"";
     display: table;
     clear:both;
+    
 } 
 [class*='col-'] {
 	width: 92%;
