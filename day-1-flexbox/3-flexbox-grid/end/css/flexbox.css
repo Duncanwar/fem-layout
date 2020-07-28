@@ -61,6 +61,7 @@ div img {
 
 /* Mobile Landscape Screen Sizes */
 @media only screen and (min-width: 480px)  {
+
 	[class*='col-']{
 		margin-left: 4%;
 		margin-right: 0%;
@@ -79,7 +80,6 @@ div img {
 		margin-left: 0%;
 		margin-right: 4%;
 	}
-
 
 }
 /* Desktop screen Sizes */
