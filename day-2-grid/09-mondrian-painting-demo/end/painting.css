@@ -1,6 +1,4 @@
 .wrapper {
-	width: 600px;
-	height: 600px;
 	display: grid;
 	grid-template-rows: 0.34fr 0.42fr 0.12fr 0.12fr; /* 170px 210px 61px 61px */
 	grid-template-columns: 0.23fr 0.69fr 0.08fr; /* 124px 376px 42px*/
@@ -85,6 +83,6 @@ div {
 @media (max-device-width: 749px)  {
 	.wrapper {
 	  display: block;
-	  background-color: orange;
+	  /* background-color: orange; */
 	}
 }
